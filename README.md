@@ -2,9 +2,11 @@
 
 ---
 
+![Java CI with Maven](https://github.com/LiushuiXiaoxia/prometheus-demo/workflows/Java%20CI%20with%20Maven/badge.svg)
+
 新建项目，使用以下配置。
 
-![](image/1.png)
+![](https://raw.githubusercontent.com/LiushuiXiaoxia/prometheus-demo/master/image/1.png)
 
 已有项目添加以下依赖。
 
@@ -175,4 +177,4 @@ tomcat_sessions_expired_sessions_total 0.0
 
 效果如下。
 
-![](image/p4.png)
+![](https://raw.githubusercontent.com/LiushuiXiaoxia/prometheus-demo/master/image/p4.png)
